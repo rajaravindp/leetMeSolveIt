@@ -1,1 +1,1 @@
-Follow my Data Structures and Algorithms Journey here. 
+**Follow my Data Structures and Algorithms Journey here. **
